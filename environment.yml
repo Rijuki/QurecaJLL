@@ -5,4 +5,4 @@ channels:
   - https://conda.anaconda.org/conda-forge/
 dependencies:
   - ipycanvas
-  - qiskit
+  - qiskit-experiments
