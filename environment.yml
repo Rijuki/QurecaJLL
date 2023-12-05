@@ -6,4 +6,4 @@ channels:
   - conda-forge/label/jupyterlite_core_alpha
 dependencies:
   - ipycanvas
-  - qiskit
+  - qiskit-terra
